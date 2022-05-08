@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'GabelisaFontbyKeithzo7NTypes';
+	src: url('../fonts/GabelisaFontbyKeithzo7NTypes/GabelisaFontbyKeithzo7NTypes.eot');
+	src: url('../fonts/GabelisaFontbyKeithzo7NTypes/GabelisaFontbyKeithzo7NTypes.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/GabelisaFontbyKeithzo7NTypes/GabelisaFontbyKeithzo7NTypes.woff') format('woff'),
+		 url('../fonts/GabelisaFontbyKeithzo7NTypes/GabelisaFontbyKeithzo7NTypes.ttf') format('truetype');
+		 
+	font-style: normal;
+	font-weight: normal;
+}
